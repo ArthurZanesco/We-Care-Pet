@@ -1,1 +1,1 @@
-https://arthurzanesco.github.io/We-Care-Pet/
+arthurzanesco.github.io/We-Care-Pet
